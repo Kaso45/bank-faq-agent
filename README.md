@@ -77,3 +77,7 @@ streamlit run frontend/app.py
 - `backend/`: Contains the FastAPI application, LangGraph agent definitions, and database schemas.
 - `frontend/`: Contains the Streamlit user interface (`app.py`).
 - `tests/`: Contains test cases for the agent and API.
+
+## Citation
+
+The FAQ data and reference documents used to power the agent's knowledge base are sourced from **Seven Bank**.
