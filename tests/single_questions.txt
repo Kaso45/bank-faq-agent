@@ -1,0 +1,30 @@
+# General Questions (Likely covered by internal PDF Rules)
+1. What is the maximum daily withdrawal limit at an ATM?
+2. What are the rules and fees for international money transfers?
+3. How can I close my bank account and what happens to the remaining balance?
+4. Are there any dormant account fees if I don't use my account for a long time?
+5. What is the policy regarding fraudulent transactions and liability?
+6. Can I open a joint account with a family member?
+7. What are the terms and conditions for taking out a personal loan?
+8. Is there a penalty for early withdrawal from a fixed-term deposit?
+9. What happens if I lose my debit card or it gets stolen?
+10. Are there any restrictions on the types of businesses I can receive funds from?
+
+# Specific Seven Bank Inquiries (May require external search tool)
+11. Does Seven Bank offer corporate accounts for small businesses?
+12. What are the operating hours of Seven Bank ATMs inside 7-Eleven stores?
+13. Can I link my Seven Bank account to PayPay or other mobile payment apps?
+14. How do I apply for a Seven Bank credit card, and what are the benefits?
+15. What are the current interest rates for an ordinary savings account at Seven Bank?
+16. Are there any special campaigns or promotions currently running for new customers?
+17. How can I contact customer support if I'm currently overseas?
+
+# Edge Cases & Complex Queries
+18. If I accidentally transferred money to the wrong account number, can I reverse the transaction?
+19. I received an email from the bank asking for my password, is this a phishing attempt?
+20. Can I use my Seven Bank cash card at ATMs in foreign countries, and what are the fees?
+21. What happens if the ATM eats my card outside of regular business hours?
+22. I am a foreign resident in Japan, what documents do I need to open an account?
+23. Does the bank support receiving pensions from overseas?
+24. Explain the difference between your standard debit service and credit service.
+25. Can I set up automatic monthly transfers to another bank account?

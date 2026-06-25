@@ -1,0 +1,9 @@
+fastapi[standard]
+python-dotenv
+langgraph
+langchain
+langchain-community
+langchain-huggingface
+
+streamlit
+requests

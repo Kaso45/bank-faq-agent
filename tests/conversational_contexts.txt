@@ -1,0 +1,20 @@
+# Context 1: Lost Card and Security
+User: Hi, I think I lost my debit card yesterday. What should I do?
+User: Okay, I have frozen the account. Will there be a fee to issue a replacement card?
+User: I see. How long will it take for the new card to arrive at my registered address?
+User: While I wait for the new card, can I still make transfers using the mobile banking app?
+User: That's good to know. Are there any specific rules from the terms and conditions I should be aware of regarding unauthorized transactions before I reported it lost?
+
+# Context 2: International Money Transfers
+User: I need to send money to my family in the Philippines. Do you support international transfers?
+User: What are the fees associated with sending 100,000 JPY to a bank account there?
+User: How long does it typically take for the funds to be credited to the recipient's account?
+User: Are there any limits on how much I can send per month according to the bank's rules?
+User: What if the recipient details I entered were slightly incorrect? Can the transfer be amended?
+
+# Context 3: Opening an Account as a Foreign Resident
+User: Hello, I just moved to Japan and would like to open a bank account. What documents do I need?
+User: I have my Residence Card, but it's only valid for another 6 months. Is that acceptable?
+User: Do I need to have a personal seal (hanko) to open the account, or is a signature enough?
+User: Once the account is open, can I immediately start using the internet banking features?
+User: According to your terms, are there any restrictions on my account since I am not a permanent resident?
