@@ -56,7 +56,15 @@ Start the ChromaDB server so the agent can retrieve knowledge for the RAG system
 chroma run --host localhost --port 8001 --path backend\data\chroma_db
 ```
 
-### 3. Run the FastAPI App on Local
+### 3. Ingest Documents into the Vector Database
+Before the agent can answer questions, you need to populate the vector database with the FAQ documents. Ensure the Chroma DB server is running (from step 2), then execute the ingestion script from the `backend/app` directory:
+```bash
+cd backend/app
+python -m rag.store
+cd ../..
+```
+
+### 4. Run the FastAPI App on Local
 Start the backend FastAPI server, which manages the LangGraph agent and API endpoints:
 ```bash
 uvicorn backend.app.main:app --reload
@@ -65,7 +73,7 @@ uvicorn backend.app.main:app --reload
 ```
 *The backend should now be running (typically accessible at http://localhost:8000).*
 
-### 4. Run the Streamlit App
+### 5. Run the Streamlit App
 Start the Streamlit frontend to interact with the FAQ Agent:
 ```bash
 streamlit run frontend/app.py

@@ -27,7 +27,7 @@ if CHROMA_PORT:
 # Root paths
 # ---------------------------------------------------------------------------
 # This file lives at backend/app/config.py, so:
-APP_DIR = Path(__file__).resolve().parent  # backend/app/
+APP_DIR = Path(__file__).resolve().parent.parent  # backend/app/
 BACKEND_DIR = APP_DIR.parent  # backend/
 
 # ---------------------------------------------------------------------------

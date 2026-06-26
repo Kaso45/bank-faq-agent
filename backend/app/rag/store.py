@@ -54,7 +54,7 @@ def collect_pdfs(directory: str | Path) -> list[str]:
 def build_local_store(embeddings) -> Chroma:
     """Open (or create) the persistent Chroma collection."""
     import chromadb
-    from backend.app.utils.config import CHROMA_HOST, CHROMA_PORT
+    from utils.config import CHROMA_HOST, CHROMA_PORT
 
     if CHROMA_HOST and CHROMA_PORT:
         client = chromadb.HttpClient(host=CHROMA_HOST, port=CHROMA_PORT)
